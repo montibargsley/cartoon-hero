@@ -16,6 +16,9 @@ header{
 h1, h2{
     font-family: 'Montserrat', sans-serif;
 }
+
+/*header style */
+/* write your comment here */
 header h1{
     color: whitesmoke;
     font-size: 75px;
